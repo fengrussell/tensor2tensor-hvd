@@ -1,4 +1,4 @@
-## Tensor2Tensor对Horovod的支持
+## Tensor2Tensor supported Horovod
 
 ### Version
 
